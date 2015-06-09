@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content jcr:primaryType="nt:unstructured">
+        <body jcr:primaryType="nt:unstructured">
+            <content jcr:primaryType="nt:unstructured">
+                <aside jcr:primaryType="nt:unstructured">
+                    <items jcr:primaryType="nt:unstructured">
+                        <search jcr:primaryType="nt:unstructured">
+                            <items jcr:primaryType="nt:unstructured">
+                                <searchpanel jcr:primaryType="nt:unstructured">
+                                    <result jcr:primaryType="nt:unstructured">
+                                        <header jcr:primaryType="nt:unstructured">
+                                            <items jcr:primaryType="nt:unstructured">
+                                                <default jcr:primaryType="nt:unstructured">
+                                                    <items jcr:primaryType="nt:unstructured">
+                                                        <export jcr:primaryType="nt:unstructured">
+                                                            <data
+                                                                jcr:primaryType="nt:unstructured"
+                                                                availableColumns="/mnt/overlay/wcm/core/content/common/availablecolumns"/>
+                                                        </export>
+                                                    </items>
+                                                </default>
+                                                <selection jcr:primaryType="nt:unstructured">
+                                                    <items jcr:primaryType="nt:unstructured">
+                                                        <export jcr:primaryType="nt:unstructured">
+                                                            <data
+                                                                jcr:primaryType="nt:unstructured"
+                                                                availableColumns="/mnt/overlay/wcm/core/content/common/availablecolumns"/>
+                                                        </export>
+                                                    </items>
+                                                </selection>
+                                            </items>
+                                        </header>
+                                        <content jcr:primaryType="nt:unstructured">
+                                            <items jcr:primaryType="nt:unstructured">
+                                                <searchpages jcr:primaryType="nt:unstructured">
+                                                    <headerdatasource
+                                                        jcr:primaryType="nt:unstructured"
+                                                        availableColumns="/mnt/overlay/wcm/core/content/common/availablecolumns"/>
+                                                </searchpages>
+                                            </items>
+                                        </content>
+                                    </result>
+                                </searchpanel>
+                            </items>
+                        </search>
+                    </items>
+                </aside>
+                <header jcr:primaryType="nt:unstructured">
+                    <items jcr:primaryType="nt:unstructured">
+                        <selection jcr:primaryType="nt:unstructured">
+                            <items jcr:primaryType="nt:unstructured">
+                                <create jcr:primaryType="nt:unstructured">
+                                    <items jcr:primaryType="nt:unstructured">
+                                        <createexcelreport jcr:primaryType="nt:unstructured">
+                                            <data
+                                                jcr:primaryType="nt:unstructured"
+                                                availableColumns="/mnt/overlay/wcm/core/content/common/availablecolumns"/>
+                                        </createexcelreport>
+                                    </items>
+                                </create>
+                            </items>
+                        </selection>
+                        <default jcr:primaryType="nt:unstructured">
+                            <items jcr:primaryType="nt:unstructured">
+                                <create jcr:primaryType="nt:unstructured">
+                                    <items jcr:primaryType="nt:unstructured">
+                                        <createexcelreport jcr:primaryType="nt:unstructured">
+                                            <data
+                                                jcr:primaryType="nt:unstructured"
+                                                availableColumns="/mnt/overlay/wcm/core/content/common/availablecolumns"/>
+                                        </createexcelreport>
+                                    </items>
+                                </create>
+                            </items>
+                        </default>
+                    </items>
+                </header>
+                <content jcr:primaryType="nt:unstructured">
+                    <items jcr:primaryType="nt:unstructured">
+                        <configureColumnsModal
+                            jcr:primaryType="nt:unstructured"
+                            path="/mnt/overlay/wcm/core/content/common/configurecolumnsmodal/content"/>
+                        <childpages jcr:primaryType="nt:unstructured">
+                            <layout jcr:primaryType="nt:unstructured">
+                                <layouts jcr:primaryType="nt:unstructured">
+                                    <list jcr:primaryType="nt:unstructured">
+                                        <headerdatasource
+                                            jcr:primaryType="nt:unstructured"
+                                            availableColumns="/mnt/overlay/wcm/core/content/common/availablecolumns"/>
+                                    </list>
+                                </layouts>
+                            </layout>
+                        </childpages>
+                    </items>
+                </content>
+            </content>
+        </body>
+    </jcr:content>
+</jcr:root>

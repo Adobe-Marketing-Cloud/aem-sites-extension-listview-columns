@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workspaceFilter version="1.0">
+    <filter root="/apps/wcm/core/content/common/configurecolumnsmodal/content/items/chooseColumns"/>
+    <filter root="/apps/wcm/core/content/sites/jcr:content/body/content/aside/items/search/items/searchpanel/result/header/items/default/items/export/data"/>
+    <filter root="/apps/wcm/core/content/sites/jcr:content/body/content/aside/items/search/items/searchpanel/result/header/items/selection/items/export/data"/>
+    <filter root="/apps/wcm/core/content/sites/jcr:content/body/content/aside/items/search/items/searchpanel/result/content/items/searchpages/headerdatasource"/>
+    <filter root="/apps/wcm/core/content/sites/jcr:content/body/content/header/items/selection/items/create/items/createexcelreport/data"/>
+    <filter root="/apps/wcm/core/content/sites/jcr:content/body/content/header/items/default/items/create/items/createexcelreport/data"/>
+    <filter root="/apps/wcm/core/content/sites/jcr:content/body/content/content/items/configureColumnsModal"/>
+    <filter root="/apps/wcm/core/content/sites/jcr:content/body/content/content/items/childpages/layout/layouts/list/headerdatasource"/>
+</workspaceFilter>

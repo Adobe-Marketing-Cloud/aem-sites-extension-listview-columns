@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workspaceFilter version="1.0">
+    <filter root="/apps/listviewcolumns/clientlibs"/>
+    <filter root="/apps/listviewcolumns/install"/>
+    <filter root="/apps/wcm/core/content/common/availablecolumns/createdBy"/>
+</workspaceFilter>

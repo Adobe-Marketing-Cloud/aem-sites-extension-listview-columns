@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="nt:unstructured">
+    <content jcr:primaryType="nt:unstructured">
+        <items jcr:primaryType="nt:unstructured">
+            <chooseColumns
+                jcr:primaryType="nt:unstructured"
+                availableColumns="/mnt/overlay/wcm/core/content/common/availablecolumns"/>
+        </items>
+    </content>
+</jcr:root>
