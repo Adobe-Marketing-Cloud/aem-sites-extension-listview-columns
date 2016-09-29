@@ -10,7 +10,7 @@ The package contains the following artifacts:
 * ```com.adobe.aem.sites.extension.listview.columns.core```: a bundle providing a service to compute the data for the new column we are going to add
 * ```com.adobe.aem.sites.extension.listview.columns.overlay```: a temporary content package for overlaying AEM 6.3 extension capabilities
 
-The package is designed to work for AEM 6.1 GA.
+The package is designed to work for AEM 6.3 GA.
 
 
 ## Build & Install
